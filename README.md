@@ -31,6 +31,21 @@
 </h1>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Manchester, UK.
+
+- :telescope: I'm not working right now, but in my free time I continue to learn and develop myself to know more about front-end and back-end and various other languages ​​for building web applications.
+
+- :seedling: Explore programming languages, the web, and game development.
+
+- :zap: In my free time, I solve problems and create solutions to problems I find, and I enjoy reading technical articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-gregory23)
 
 
 <!--
